@@ -3,14 +3,14 @@
 
 2016-至今
 华为供应链：计划产品、智能运营分析产品。自研分布式计划排产引擎、供应链的相关的库存优化算法以及运用MIP whatif工厂排产、供应链领域的ETL。
-使用技术：python、spark、hive、java、webix、plsql等
+使用技术：python、sqoop、spark、hive、java、webix、plsql等
 
 2014-2016
 京东商城：京东所有运营与采销角色日常使用的数据平台开发与建设。包含商城所有维度的数据。
-使用技术：java web、hive sqoop、kafka storm、mongo等
+使用技术：java web、hive sqoop、kafka storm、hbase、redis、mongo等
 
 2011-2013 
-网站开发：单点登录、评论、分享、搜索、后台管理等。
+网站开发：单点登录、评论、分享、搜索、直播前中台搭建、网站后台管理等。
 使用技术：java web、lucene、js等
 
 2007-2011 天津理工大学
